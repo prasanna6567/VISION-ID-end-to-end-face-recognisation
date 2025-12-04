@@ -1,2 +1,9 @@
-# VISION-ID-end-to-end-face-recognisation
-"VisionID is an end-to-end face recognition system using deep learning for detection, alignment, embedding, and verification. Features include anti-spoofing, optimized GPU inference, and deployable REST/CLI services for secure identity authentication."
+# OpenCV-Face-Recognition
+Real-time face recognition project with OpenCV and Python
+<br><br>
+Links for complete Tutorial:
+<br>
+https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+https://www.instructables.com/id/Real-time-Face-Recognition-an-End-to-end-Project/
+<br>
+<p><img src="https://github.com/Mjrovai/OpenCV-Face-Recognition/blob/master/FaceRecogBlock.png?raw=true"></p>
